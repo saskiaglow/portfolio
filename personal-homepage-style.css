@@ -1,0 +1,254 @@
+body{
+	background-color: lightblue;
+}
+html{
+	scroll-behavior: smooth;
+}
+#index{
+	font-family: Georgia, serif;
+	font-size: 34px;
+	line-height: 24px;
+	text-align: center;
+	width: 900px;
+	margin: auto;
+}
+#button-container{
+	position: fixed;
+	right: 1vw;
+	top: 1vh;
+	font-family: 'Space Mono', monospace;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 45px;
+	line-height: 47px;
+}
+#header{
+	position: fixed;
+	left: 1vw;
+	top: 1vh;
+	font-family: 'Space Mono', monospace;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 20px;
+}
+#work-info{
+	font-family: Georgia, serif;
+	font-size: 17px;
+	line-height: 20px;
+	padding: 1em;
+	width: 50vw;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:visited{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	text-decoration: none;
+	color: blue;
+}
+#image-section{
+	height: 60vh;
+  width: 100vw;
+  overflow-x: scroll;
+}
+#video{
+	display:flex;
+    justify-content: center;
+    align-content: stretch;
+    align-items: center;
+    padding: 2em;
+}
+img{
+	height: 50vh;
+	padding:1em;
+}
+#script{
+	display: flex;
+	width: 180vw;
+	font-family: Georgia, serif;
+	font-size: 17px;
+	line-height: 22px;
+	padding: 1vw;
+}
+p{
+	width: 20em;
+	padding: 1em;
+}
+#troll-bridge{
+	display:flex;
+    justify-content: center;
+    align-content: stretch;
+    align-items: center;
+}
+#cabbage{
+	display:flex;
+    justify-content: center;
+    align-content: stretch;
+    align-items: center;
+}
+#Chip-Skip{
+	width: 250vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#family{
+	display:flex;
+    justify-content: center;
+    align-content: stretch;
+    align-items: center;
+}
+#greenhouse{
+	display:flex;
+    justify-content: center;
+    align-content: stretch;
+    align-items: center;
+}
+#InsideOut{
+	display:flex;
+    justify-content: center;
+    align-content: stretch;
+    align-items: center;
+}
+#Halloween{
+	display:flex;
+    justify-content: center;
+    align-content: stretch;
+    align-items: center;
+}
+#Ferry{
+	display:flex;
+    justify-content: center;
+    align-content: stretch;
+    align-items: center;
+}
+#OGDEN{
+	width: 600vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#coffin-monument{
+	width: 200vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#Bathos{
+	width: 1000vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#Optime{
+	width: 250vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#Grapefruit{
+	width: 200vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#Switchbacks{
+	width: 770vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#ReverseWaterfall{
+	width: 130vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#Windy{
+	width: 1150vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#CAAD{
+	width: 200vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#GUTHAUS{
+	width: 130vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#Without2{
+	width: 400vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#Without1{
+	width: 400vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#Paprika{
+	width: 450vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#Ad-Hoc{
+	width: 420vw;
+	display: flex;
+	flex-wrap: nowrap;
+	align-items: center;
+}
+#Artspace{
+	width: 1300vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#LK{
+	width: 800vw;
+	display: flex;
+	flex-wrap: nowrap;
+	align-items: center;
+}
+#blank-books{
+	width: 150vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#STEAD{
+	width: 400vw;
+	display: flex;
+	flex-wrap: nowrap;
+	align-items: center;
+}
+#dance-class{
+	width: 130vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#Companie{
+	width: 400vw;
+	display: flex;
+	flex-wrap: nowrap;
+}
+#workout{
+	width: 200vw;
+	display: flex;
+	flex-wrap: nowrap;
+	align-items: center;
+}
+#PAFA{
+	width: 250vw;
+	display: flex;
+	flex-wrap: nowrap;
+	align-items: center;
+}
+#Content{
+	width: 300vw;
+	display: flex;
+	flex-wrap: nowrap;
+	align-items: center;
+}
+#pocket-guide{
+	width: 200vw;
+	display: flex;
+	flex-wrap: nowrap;
+	align-items: center;
+}
