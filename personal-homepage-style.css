@@ -252,3 +252,21 @@ p{
 	flex-wrap: nowrap;
 	align-items: center;
 }
+#Esq{
+	width: 450vw;
+	display: flex;
+	flex-wrap: nowrap;
+	align-items: center;
+}
+#Movies{
+	height: 80vh;
+}
+#Movies1{
+	height: 80vh;
+}
+#Movies2{
+	height: 80vh;
+}
+#Movies3{
+	height: 80vh;
+}
